@@ -40,6 +40,19 @@ feature:
     icon: pen
     icon_pack: fas
     name: Illustrator
+  - description: 
+    icon: brain
+    icon_pack: fas
+    name: Brain research
+  - description: 
+    icon: microscope
+    icon_pack: fas
+    name: Imaging
+  - description: 
+    icon: python
+    icon_pack: fab
+    name: Python
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

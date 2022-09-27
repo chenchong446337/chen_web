@@ -43,8 +43,3 @@ title: Chong CHEN, MD, PhD
 ---
 
 I was trained to be an anesthesiologist and have worked in a hospital in China for about three years. In these three years, I have treated more than 1000 patients in the Operating Room. I finally decided to quit my physician job, aiming to understand more about general anesthesia through basic research, because one of my patients underwent intraoperative awareness during her ectopic pregnancy surgery. If you are not familiar with intraoperative awareness and want to know more, I recommend you to watch this movie: [*Awake*](https://www.imdb.com/title/tt0211933/). After almost 10 years training in Neuroscience, I have acquired advanced techniques which enable me to investigate any neurobiological question from nano-scale protein, to meter-scale system. I am excited to finally use these techniques to reveal more neurobiological mechanism of general anesthesia. 
-I am excited to open my new labratory soon for 
-
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
