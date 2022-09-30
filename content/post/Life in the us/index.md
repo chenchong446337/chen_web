@@ -8,6 +8,7 @@ draft: false
 featured: false
 projects: [life in the US]
 subtitle: "记录并分享一下自己J1签证两年回国服务条款豁免的经历！希望能帮助到以后有需要的人。"
+summary: "记录并分享一下自己J1签证两年回国服务条款豁免的经历！希望能帮助到以后有需要的人。"
 tags:
 - 美国
 - J1
