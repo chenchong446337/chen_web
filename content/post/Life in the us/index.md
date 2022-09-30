@@ -2,9 +2,8 @@
 authors:
 - admin
 categories:
-- Demo
-- 教程
-date: "2020-12-13T00:00:00Z"
+- Life in the US
+date: "2022-09-30"
 draft: false
 featured: false
 image:
