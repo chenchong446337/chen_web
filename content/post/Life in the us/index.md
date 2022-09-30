@@ -6,81 +6,36 @@ categories:
 date: "2022-09-30"
 draft: false
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
-  placement: 2
-  preview_only: false
-lastmod: "2020-12-13T00:00:00Z"
-projects: []
-subtitle: "Welcome \U0001F44B We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar with
-  everything in no time."
-summary: "Welcome \U0001F44B We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar with
-  everything in no time."
+projects: [life in the US]
+subtitle: "记录并分享一下自己J1签证两年回国服务条款豁免的经历！希望能帮助到以后有需要的人。"
 tags:
-- Academic
-- 开源
-title: Welcome to Wowchemy, the website builder for Hugo
+- 美国
+- J1
+- 中国大使馆
+title: 美国J1签证2年回国服务条款豁免经验分享
 ---
 
-## Overview
+## 背景
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+时间过的飞快，转眼来美做博士后研究就快要到第五个年头了。 本来没有打算留在美国这么长时间，可是因为工作上的问题，短期内应该是很难回国了。所以做好了长期留在美国的准备。上周刚结束一个Tenure Track 教职的面试。面试时被问到身份问题，所以回来就想着赶紧把身份的事情给解决了。我现在有三个选择：
+1. 自己申请EB1a签证拿美国绿卡。这一选择当然最直接，但是考虑到自己在review别人文章这一项还比较欠缺，可能希望不是很大。
+2. 通过目前的学校换成H1B签证，如果能拿到教职在转到新的学校。
+3. 拿到教职之后可以通过学校申请EB1b签证，拿绿卡。
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+但是不管怎样，J1签证2年的回国服务条款豁免还是得着手办起来。网上查了一下资料，发现申请H1b需要学校的支持信。正纠结着怎么给实验室老板提这事，老板自己发个邮件过来问我要不要换成H1b， 原来学校的International office通知他我明年7月J1就要到期了。如果想让我继续留在这里工作，就得换成H1b。既然自己想换，老板也支持，那就开始吧。
 
-## Get Started
+因为我是刚开始，还没有结束，所以我就按时间记录一下整个过程。方便后面有需要的朋友了解下整个过程，以及每个过程所需要的大概时间。
+* 09-28-2022, 网上填写DS-3035表格以获取豁免编号（case number）。 里面有需要填写一个声明。就如实填写自己申请豁免的理由就好了。网上也有些模版。填写完成后可以会有一个PDF的package可以下载。里面最后一页（third party barcode page）是要通过[J-1豁免中方不持异议信申请系统](https://www.lxgzusa.org)上传给大使馆人员审核的。
+* 09-28-2022, 拿到豁免编号之后就要提交资料给中国大使馆了。中国大使馆最近好像新出了一个专门针对J-1签证豁免的系统。所有资料都可以网上上传，不用在邮寄资料给大使馆了。（给大使馆👍）。系统使用起来也很简单。首先注册账号，完善自己的个人资料，在美留学工作经历等。然后就可以按要求提交资料了。这里要注意申请报告的撰写。尤其是国内有工作经历的同学，一定要说清楚和国内单位没有住房，工资纠纷。自费一定要强调自费。转换签证类别也要写清楚。需要提交的资料网站上“常见问题解答”里有。先看一下。
+* 09-29-2022，今天收到了大使馆的来信说是要补充材料。其实就是上面提到的，大使馆希望我在申请报告中说明我和以前工作单位有无房产，工资纠纷。以及要说清楚转换何种签证。虽然在申请的过程中有几处需要填写申请H1b签证，但是大使馆希望你在申请报告中明确这一信息。（再次为大使馆工作人员👍。提交的时候说是要2-3个月的审核时间。没想到这么快就有初审。当然希望后面也能快点）。
+* 下一步就是把下载下来的DS-3035表格寄到美国国务院。这个需要去银行先办理一个cashier's check。
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+以上就是目前的情况。接下来会根据进展情况持续更新。
 
-## Crowd-funded open-source software
+祝大家申请顺利！
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+chong
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
 ## License
 
