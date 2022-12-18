@@ -35,6 +35,9 @@ title: 美国J1签证2年回国服务条款豁免经验分享
 继续等消息。。。
 以上就是目前的情况。接下来会根据进展情况持续更新。
 
+<iframe src="https://rappa.shinyapps.io/interactive-ggplot" data-external="1" width="925px" height="800px">
+</iframe>
+
 祝大家申请顺利！
 
 chong
