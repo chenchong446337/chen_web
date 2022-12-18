@@ -36,7 +36,7 @@ The overall imbalance functions corresponding to each treatment k can then be ra
 
 Below is the shiny app I made for my colleague:
 
-<iframe src=" https://chenchong446337.shinyapps.io/minimization/" data-external="1" width="800px" height="800px">
+<iframe src=" https://chenchong446337.shinyapps.io/minimization/" data-external="1" width="600px" height="600px">
 </iframe>
 
 ## License
