@@ -39,6 +39,9 @@ Below is the shiny app I made for my colleague:
 <iframe src=" https://chenchong446337.shinyapps.io/minimization/" data-external="1" width="600px" height="600px">
 </iframe>
 
+The app will automatically assign new patients to treatment groups (0.3 and 0.4 in this case) based on their prognostic factors, in this instance, gender, age, BMI, and surgery location. If you are interested, just play with the app.
+
+
 ## License
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
